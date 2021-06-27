@@ -3,6 +3,7 @@
 
 ## I'm a Student, Youtuber, and Developer!!
 
+- ⚡ Full Stack Java & Web Developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Succes in Programming life and improve Youtube channel
@@ -17,9 +18,6 @@
 
 <br />
 
-
-
-<br />
 <br />
 
 ---
