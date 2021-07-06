@@ -17,7 +17,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-![Hasintha's github stats](https://github-readme-stats.vercel.app/api?username=Hasintha-git/Hasintha-git&show_icons=true&theme=blue-green) [![GitHub Streak]](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Hasintha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasintha-git&show_icons=true&include_all_commits=true)
 <br />
 
 ---
