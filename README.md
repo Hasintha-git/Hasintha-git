@@ -54,5 +54,5 @@
 ---
 <div align="center">
 
-![nice day](./images/b854b738a0f316899fb472d8d1d7bd62.gif)
+![nice day](./b854b738a0f316899fb472d8d1d7bd62.gif)
 </div>
