@@ -6,8 +6,6 @@ My name is Hasintha Diyaneth and I'm from Sri Lanka
 
 I'm undergraduate software enginner and currently work in epic lanka as a software engineer. currently i have 1 year experiance as a software engineer and I'm youtuber and feelncer worker...
 
-![Hasintha Diyaneth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasintha-git&show_icons=true&include_all_commits=true&theme=dark)
-
 #### Follow me Following those link
 
 <p align="left">
@@ -23,3 +21,5 @@ I'm undergraduate software enginner and currently work in epic lanka as a softwa
     <img src="https://img.shields.io/badge/-youtube-6610F2?style=for-the-badge&logo=youtube&logoColor=FFFFFF&link=https://youtube.gg/QevDJqCzaY"/>
   </a>
 </p>
+
+![Hasintha Diyaneth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasintha-git&show_icons=true&include_all_commits=true&theme=dark)
