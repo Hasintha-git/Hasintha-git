@@ -22,4 +22,4 @@ I'm undergraduate software enginner and currently work in epic lanka as a softwa
   </a>
 </p>
 
-![Hasintha Diyaneth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasintha-git&show_icons=true&include_all_commits=true&theme=dark)
+<!-- ![Hasintha Diyaneth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasintha-git&show_icons=true&include_all_commits=true&theme=dark) -->
