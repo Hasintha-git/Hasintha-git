@@ -1,58 +1,25 @@
-### Hi there, I'm Hasintha 👋
+<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
 
+## Hello World ☕
 
-## I'm a Student, Youtuber, and Developer!!
+My name is Hasintha Diyaneth and I'm from Sri Lanka
 
-- ⚡ Full Stack Java & Web Developer
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Succes in Programming life and improve Youtube channel
-- ⚡ Fun fact: I love to play games
+I'm undergraduate software enginner and currently work in epic lanka as a software engineer. currently i have 1 year experiance as a software engineer and I'm youtuber and feelncer worker...
 
+![Hasintha Diyaneth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasintha-git&show_icons=true&include_all_commits=true&theme=dark)
 
-### Connect with me:
+#### Follow me Following those link
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
----
-
-![Hasintha Diyaneth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasintha-git&show_icons=true&include_all_commits=true)
-
-
-
----
-
-### 📺 Latest YouTube Videos
-
-
-➡️ [more videos...](https://www.youtube.com/channel/UCyQ_idXqiolcVzf3Y4MnsaQ)
-
----
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Hasintha's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Hasintha-git&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://www.youtube.com/channel/UCyQ_idXqiolcVzf3Y4MnsaQ
-[instagram]: https://www.instagram.com/invites/contact/?i=1q58xpt6ripwy&utm_content=kt2om0w
-[linkedin]: https://www.linkedin.com/in/hasintha-diyaneth-3b04481bb/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
----
-<div align="center">
-
-![nice day](./b854b738a0f316899fb472d8d1d7bd62.gif)
-</div>
+<p align="left">
+  <a href="https://www.facebook.com/profile.php?id=100022225032755" alt="Instagram">
+    <img src="https://img.shields.io/badge/-facebook-6610F2?style=for-the-badge&logo=facebook&logoColor=FFFFFF&link=https://www.facebook.com/iuricode"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/hasintha-diyaneth/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UCyQ_idXqiolcVzf3Y4MnsaQ" alt="Discord">
+    <img src="https://img.shields.io/badge/-youtube-6610F2?style=for-the-badge&logo=youtube&logoColor=FFFFFF&link=https://youtube.gg/QevDJqCzaY"/>
+  </a>
+</p>
