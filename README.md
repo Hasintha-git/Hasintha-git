@@ -4,7 +4,7 @@
 
 My name is Hasintha Diyaneth and I'm from Sri Lanka
 
-I'm undergraduate software enginner and currently work in epic lanka as a software engineer. currently i have 1 year experiance as a software engineer and I'm youtuber and feelncer worker...
+I'm undergraduate software enginner and currently work in epic lanka as a software engineer. currently i work in epic lanka as a software engineer and I'm youtuber and feelncer worker...
 
 #### Follow me Following those link
 
