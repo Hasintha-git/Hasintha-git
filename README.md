@@ -1,25 +1,27 @@
-<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
+<img src="ilus-code.svg" width="300px" align="right" alt="Hasintha Diyaneth Logo">
 
 ## Hello World ☕
 
-My name is Hasintha Diyaneth and I'm from Sri Lanka
+I'm **Hasintha Diyaneth** from **Sri Lanka** 🇱🇰
 
-I'm undergraduate software enginner and currently work in epic lanka as a software engineer. currently i work in epic lanka as a software engineer and I'm youtuber and feelncer worker...
+💻 I'm a **Full Stack Software Engineer** currently working at **Alibaba Group**.  
+🚀 I specialize in building modern, scalable web applications using technologies like **Angular**, **Spring Boot**, and more.  
+📹 I'm also a **YouTuber** and **freelancer**, passionate about tech, clean code, and sharing knowledge with the community.
 
-#### Follow me Following those link
+---
+
+### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.facebook.com/profile.php?id=100022225032755" alt="Instagram">
-    <img src="https://img.shields.io/badge/-facebook-6610F2?style=for-the-badge&logo=facebook&logoColor=FFFFFF&link=https://www.facebook.com/iuricode"/>
+  <a href="https://www.facebook.com/profile.php?id=100022225032755" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/hasintha-diyaneth/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
+  <a href="https://www.linkedin.com/in/hasintha-diyaneth/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <a href="https://www.youtube.com/channel/UCyQ_idXqiolcVzf3Y4MnsaQ" alt="Discord">
-    <img src="https://img.shields.io/badge/-youtube-6610F2?style=for-the-badge&logo=youtube&logoColor=FFFFFF&link=https://youtube.gg/QevDJqCzaY"/>
+  <a href="https://www.youtube.com/channel/UCyQ_idXqiolcVzf3Y4MnsaQ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
-
-<!-- ![Hasintha Diyaneth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasintha-git&show_icons=true&include_all_commits=true&theme=dark) -->
